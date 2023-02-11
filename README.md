@@ -36,8 +36,7 @@ Since the largest window of s only has one 'a', return empty string.
 
 --------
 
-### 161. Longest Substring Without Repeating Characters
-[Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+### [161. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 Given a string s, find the length of the longest substring without repeating characters.
 
@@ -67,8 +66,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 -----------
 
-### 163: Wildcard Matching
-[Problem](https://leetcode.com/problems/wildcard-matching/)
+### [163: Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 
 Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where:
 
